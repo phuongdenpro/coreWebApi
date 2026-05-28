@@ -1,0 +1,6 @@
+@coreWebApi_HostAddress = http://localhost:5168
+
+GET {{coreWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
